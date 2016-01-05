@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+
+<map version="2.0">
+
+   <mapID target="overview" url="Pages/overview.html" />
+   <mapID target="workflow" url="Pages/workflow.html" />
+   <mapID target="sources" url="Pages/sources.html" />
+   <mapID target="type" url="Pages/types.html" />
+   <mapID target="distribution" url="Pages/distribution.html" />
+   <mapID target="assumptions" url="Pages/assumptions.html" />
+   <mapID target="sampling" url="Pages/sampling.html" />
+   <mapID target="evaluation" url="Pages/evaluation.html" />
+   <mapID target="samplingForward" url="Pages/samplingForward.html" />
+   <mapID target="conditioning" url="Pages/conditionalMethods.html" />
+   <mapID target="forwardAnalysis" url="Pages/forwardAnalysis.html" />
+   <mapID target="conditions" url="Pages/Conditions.html" />
+</map>

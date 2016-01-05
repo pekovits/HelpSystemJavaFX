@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<toc version="2.0">
+<tocitemext text="Help Information" image="top">
+   <tocitem text="Overview" target="overview" image="topLevel" />
+   <tocitem text="Workflow" target="workflow" image="topLevel" />
+   <tocitem text="Sources" target="sources" image="topLevel" />
+   <tocitem text="Type" target="type" image="topLevel" />
+   <tocitem text="Conditions" target="conditions" image="topLevel" />
+   <tocitem text="Distribution" target="distribution" image="topLevel" />
+   <tocitem text="Assumptions" target="assumptions" image="topLevel" />
+</tocitemext>
+<tocitemext text="Conditional Methods on observations" target = "conditioning" image="topLevel"	>
+   <tocitem text="Sampling Methods" target="sampling" image="secondLevel" />
+   <tocitem text="Evaluation Methods" target="evaluation" image="secondLevel" />
+   <tocitem text="Assumptions" target="assumptions" image="secondLevel" />
+</tocitemext>
+<tocitemext text="Forward Uncertainty Analysis" target="forwardAnalysis" image="topLevel">
+   <tocitem text="Sampling methods" target="samplingForward" image="secondLevel" />
+   <tocitem text="Assumptions" target="assumptions" image="secondLevel" />
+</tocitemext>
+</toc>
