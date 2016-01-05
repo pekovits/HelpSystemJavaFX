@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Conditional methods on observations</h2>
+<p>
+   Conditioning uncertainty on data is the process of refining a model structure, or a distribution of parameter
+   values of a model structure as more data become available. A modeller needs to decide on:
+</p>
+<ul>
+  <li>Sampling methods</li>
+  <li>Evaluation methods</li>
+  <li>If possible gives some context on your choices or assumptions you made for these choices.</li>
+  <li>Pathway Parameters</li>
+  <li>Receptor/Consequence model</li>
+  <li>Joint Hazards</li>
+  <li>Model Validation / Conditioning Data</li>
+</ul>  
+
+<p>We follow the source-pathway-receptor framework but a modeller might choose to construct his own workflow.</p>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Types of uncertainty</h2>
+<p>
+	Types of uncertainties can classify as:
+</p>
+<ul>
+  <li>
+    Aleatory Uncertainty. Often used in contrast to epistemic uncertainty. Use this if you want to treat source of uncertainty as a probability    	distribution or probability function. This might include a model discrepancy function in validation/conditioning.
+  </li>
+  <li>
+     Epistemic uncertainties treated as probabilities. How the response of a system varies in ways that cannot be simply
+     described by random stochastic variation. Often used in contrast to aleatory
+     uncertainty.You are happy to treat source of uncertainty as a probability distribution or fuzzy measure. This might include the 	     	      representation of input uncertainties or outcomes of an expert elicitation exercise.
+  </li>
+  <li>
+    Epistemic uncertainties treated as scenarios. Projections made conditional on specific assumptions but without any
+    estimate of probability or possibility.
+  </li>
+</ul>  
+<p>We suggest to think properly how you are going to treat a source of uncertainty you might encounter in your application and then fill them in the system.</p>
+
+</body>
+</html>

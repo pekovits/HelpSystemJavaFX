@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2> Sampling methods</h2>
+<p>
+	The sampling methods help to choose the appropriate method to sample the observations we want to condition on. 
+</p>
+<ul>
+	<li>Uniform</li>
+	<li>Density dependent</li>
+	<li>
+	Latin hypercube sampling.A method of choosing random samples from prior distributions of multiple
+	variables. Correlation or co-variation between the variables can be taken into
+	account. 
+	</li>
+	<li>
+	Monte carlo Markov chain. A method of numerically integrating a probability or likelihood surface by
+iterative random sampling aimed at achieving a sample density dependent
+on the local probability or likelihood. Once convergence of the chain has
+been reached, each sample can be treated as having equal likelihood.
+	</li>
+	<li>DREAM</li>
+
+</ul>
+
+
+</body>
+</html>

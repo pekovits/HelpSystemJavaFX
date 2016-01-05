@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Conditions</h2>
+<p>
+   Forward Uncertainty Analysis is an assessment of uncertainty that depends only on the numerical
+propagation of prior assumptions about the nature of different sources of
+uncertainty and their interactions. A modeller needs to decide on:
+</p>
+<ul>
+  <li>Independent</li>
+  <li>Correlated (in space or time)</li>
+  <li>Covarying with other factors </li>
+</ul>  
+
+<p>More info about sampling methods are below.</p>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Workflow</h2>
+<p>
+	The workflow represents all the stages that a modeller might choose to follow through his analysis.Suggested workflow features are:
+</p>
+<ul>
+  <li>Model Structure</li>
+  <li>Model Emulator if it's needed</li>
+  <li>Boundary Condition. Constraints and values of variables required to run a model for a particular
+	flow domain and time period. May include input variables such as rainfalls and
+	temperatures or constraints such as specifying a fixed head or specified flux rate.</li>
+  <li>Pathway Parameters</li>
+  <li>Receptor/Consequence model</li>
+  <li>Joint Hazards</li>
+  <li>Model Validation / Conditioning Data</li>
+</ul>  
+
+<p>We follow the source-pathway-receptor framework but a modeller might choose to construct his own workflow.</p>
+</body>
+</html>
